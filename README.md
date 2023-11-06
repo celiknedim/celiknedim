@@ -8,4 +8,7 @@
 - 📫 How to reach me: here
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am a teacher but i am always a student
--->
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,bootstrap,docker,java,jquery,sass,selenium,symfony,wordpress)](https://skillicons.dev)
+
+
