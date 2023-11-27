@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Php Mvc Projects
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently working on Symfony Project
+- 🌱 I’m currently learning Javascript & React
 - 👯 I’m looking to collaborate on web projects
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about everything if i don't know, i'll say that i don't know
