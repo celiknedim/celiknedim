@@ -8,6 +8,6 @@
 - 📫 How to reach me: here
 - ⚡ Fun fact: i am a teacher but i am always a student
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,sass,bootstrap,wordpress,php,symfony,docker,java,selenium,python,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jquery,sass,bootstrap,html,css,wordpress,js,php,symfony,java,selenium,docker,python,swift)](https://skillicons.dev)
 
 
